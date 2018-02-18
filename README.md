@@ -1,1 +1,1 @@
-![Alt text](images/title.png)
+![Введение в анализ геоданных](images/course_title.png)
