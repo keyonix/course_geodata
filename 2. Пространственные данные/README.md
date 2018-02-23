@@ -1,4 +1,4 @@
-_Лекция_2_видеоурок_1_обзор_EE:_
+_Лекция_2_видеоурок_1_обзор_GEE:_
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sJpvz73OG_E
 " target="_blank"><img src="http://img.youtube.com/vi/sJpvz73OG_E/0.jpg" 
