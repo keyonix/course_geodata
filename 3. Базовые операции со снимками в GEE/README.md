@@ -1,7 +1,7 @@
 _Лекция 3. Видеоурок 1 - Объект Image и данные Landsat:_
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vARm9shfg9Q
-" target="_blank"><img src="http://img.youtube.com/vARm9shfg9Q/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/vARm9shfg9Q/0.jpg" 
 alt="Video Lecture" width="240" height="180" border="10" /></a>
 
 _Лекция 3. Видеоурок 2 - Объект ImageCollection и данные Sentinel:_
