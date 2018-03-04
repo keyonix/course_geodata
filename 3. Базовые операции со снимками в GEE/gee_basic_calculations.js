@@ -80,7 +80,7 @@ var vis = {min: 0, max: 2, palette: [
 // Добавляем слой на карту
 Map.addLayer(ndvi, vis, 'NDVI image');
 
-//Опция 1. Расчет нормированной разности двух каналов серии снимков
+//Опция 2. Расчет нормированной разности двух каналов серии снимков
 //Определим функцию addNDVI
 function addNDVI(image) {
   var ndvi = image.normalizedDifference(['B8A', 'B4']);
